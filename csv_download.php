@@ -23,7 +23,7 @@ class CsvDownloader
 
     function __construct()
     {
-        header("Content-Type: application/vnd.ms-excel; charset=GBK");
+        header("Content-Type: application/vnd.ms-excel; charset=UTF-8");
         header("Pragma: public");
         header("Expires: 0");
         header("Cache-Control: must-revalidate, post-check=0, pre-check=0");
