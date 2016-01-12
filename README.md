@@ -9,3 +9,6 @@
 
 3.http_request.php
 用php模拟出http的post请求
+
+4.access_control_allow_origin
+开放文件的跨域访问
