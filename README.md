@@ -56,3 +56,21 @@ children!
 father thread,pid=2233
 
 children!
+
+6.php_mailer.php
+
+通过php自带的simple mail transfer protocol(SMTP)来实现邮件的发送功能
+
+只是一个简单的demo,考虑不严谨之处还望谅解
+
+log里面的信息如下:
+
+2016-01-14 09:56:18pm : Trying to smtp.qq.com:25
+
+2016-01-14 09:56:18pm : Connected to relay host smtp.qq.com
+
+2016-01-14 09:56:18pm : message send!
+
+2016-01-14 09:56:19pm : mail has been sent!
+
+
