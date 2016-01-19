@@ -74,3 +74,10 @@ log里面的信息如下:
 2016-01-14 09:56:19pm : mail has been sent!
 
 
+7.socket/
+
+php中socket通讯的demo,包括server端和client端,server端需要在cli上运行
+
+
+
+
