@@ -78,6 +78,10 @@ log里面的信息如下:
 
 php中socket通讯的demo,包括server端和client端,server端需要在cli上运行
 
+8.music.php
+
+网易音乐接口,通过指定参数获取资源,返回json格式的数据
+
 
 
 
