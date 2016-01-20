@@ -25,7 +25,7 @@ class HttpRequester{
     {
         $data=http_build_query($this->data);
         $stream=[
-            'hhtp'=>[
+            'http'=>[
                 'method'=>'POST',
                 'header'=>'Content-type:application/x-www-form-urlencoded',
                 'content'=>$data,
