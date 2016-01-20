@@ -83,5 +83,19 @@ php中socket通讯的demo,包括server端和client端,server端需要在cli上�
 网易音乐接口,通过指定参数获取资源,返回json格式的数据
 
 
+9.redis/
+
+redis的使用demo,在linux服务器上需要安装redis数据库,php需要安装redis扩展(phpredis-master)
+
+      key.php
+
+         redis中key的使用demo
+
+      hash.php
+
+         redis中hash散列表的使用demo(包括大部分函数的demo)
+
+
+
 
 
