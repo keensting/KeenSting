@@ -99,6 +99,10 @@ redis的使用demo,在linux服务器上需要安装redis数据库,php需要安�
 
          redis中list的使用demo(感觉与栈类似)
 
+      subscribe.php
+
+         redis中的消息订阅demo
+
 
 
 
